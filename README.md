@@ -1,4 +1,4 @@
-# diet-c-and-a-food-security-income
+# fs-global-health-income
 
 Code and data to reproduce the *income-group* analyses for the manuscript.
 
